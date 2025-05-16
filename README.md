@@ -31,8 +31,8 @@ Este projeto utiliza a API do Google Gemini para extrair texto de arquivos PDF, 
     *   Para "Value", cole a sua chave de API do Google Gemini.
     *   Certifique-se de que a opção "Notebook access" esteja ativada.
 5.  **Monte o Google Drive:** O notebook inclui código para montar o Google Drive. Isso é necessário para acessar o arquivo PDF.
-6.  **Atualize o Caminho do PDF:** No código, localize a linha `caminho_do_pdf = "/content/drive/My Drive/aprendizado.pdf"` e atualize-a com o caminho real para o seu arquivo PDF no Google Drive.
-
+6.  **Atualize o Caminho do PDF:** No código, localize a linha `caminho_do_pdf = "/content/drive/My Drive/aprendizado.pdf"` e atualize-a com o caminho real para o seu arquivo PDF no Google Drive,** ou coloque e renomei o seu PDF para aprendizado.pdf na sua pasta raiz do My Drive mantendo este mesmo caminho.
+,
 ## Como Executar
 
 1.  Siga os passos de configuração acima.
