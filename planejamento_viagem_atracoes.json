@@ -1,0 +1,353 @@
+[
+    {
+        "cidade": "Roma",
+        "pais": "Itália",
+        "link_google_search": "https://www.google.com/search?q=principais+atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Roma+It%C3%A1lia",
+        "link_google_maps_atracoes": "https://www.google.com/maps/search/atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Roma%2C+It%C3%A1lia",
+        "link_google_maps_cidade": "https://www.google.com/maps/place/Roma%2C+It%C3%A1lia",
+        "sugestoes_gemini": [
+            {
+                "nome": "Coliseu e Fórum Romano",
+                "tipo_principal": "Monumento Nacional e Ruínas Arqueológicas",
+                "descricao_enxuta": "Símbolo icônico de Roma, o Coliseu é um anfiteatro antigo, enquanto o Fórum Romano revela os restos da antiga cidade romana.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Experiência histórica inesquecível"
+            },
+            {
+                "nome": "Museus do Vaticano (incluindo a Capela Sistina)",
+                "tipo_principal": "Museu de Arte e Religião",
+                "descricao_enxuta": "Um complexo de museus que abriga uma vasta coleção de arte e artefatos, incluindo os afrescos da Capela Sistina de Michelangelo.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Tesouros artísticos e religiosos inigualáveis"
+            },
+            {
+                "nome": "Basílica de São Pedro",
+                "tipo_principal": "Catedral Católica Romana",
+                "descricao_enxuta": "Uma das maiores e mais importantes igrejas católicas do mundo, com uma arquitetura impressionante e uma rica história.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Majestosidade arquitetônica e significado religioso"
+            },
+            {
+                "nome": "Fontana di Trevi",
+                "tipo_principal": "Fonte Barroca",
+                "descricao_enxuta": "Uma das fontes mais famosas do mundo, com uma arquitetura exuberante e um cenário mágico.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Beleza e atmosfera romântica"
+            },
+            {
+                "nome": "Panteão",
+                "tipo_principal": "Templo Romano",
+                "descricao_enxuta": "Um templo romano bem preservado, conhecido por sua cúpula imponente e sua arquitetura inovadora.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura impressionante e engenharia antiga"
+            },
+            {
+                "nome": "Piazza Navona",
+                "tipo_principal": "Praça Barroca",
+                "descricao_enxuta": "Uma praça vibrante e animada, com fontes deslumbrantes, artistas de rua e uma atmosfera animada.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Atmosfera animada e beleza arquitetônica"
+            },
+            {
+                "nome": "Espaço de Escadaria Espanhola",
+                "tipo_principal": "Escadaria Monumental",
+                "descricao_enxuta": "Uma escadaria imponente que conecta a Piazza di Spagna à Igreja Trinità dei Monti, um ponto de encontro popular.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Ponto de encontro icônico e vistas panorâmicas"
+            },
+            {
+                "nome": "Castel Sant'Angelo",
+                "tipo_principal": "Castelo Histórico",
+                "descricao_enxuta": "Um castelo histórico com uma longa e fascinante história, oferecendo vistas panorâmicas de Roma.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "História fascinante e vistas panorâmicas"
+            },
+            {
+                "nome": "Galeria Borghese",
+                "tipo_principal": "Museu de Arte",
+                "descricao_enxuta": "Um museu que abriga uma coleção impressionante de esculturas e pinturas de artistas renascentistas e barrocos.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Coleção de arte renascentista e barroca de renome mundial"
+            },
+            {
+                "nome": "Villa Borghese",
+                "tipo_principal": "Parque Urbano",
+                "descricao_enxuta": "Um grande e belo parque com jardins, fontes, museus e galerias, ideal para relaxar e desfrutar da natureza.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Espaço verde tranquilo no coração de Roma"
+            },
+            {
+                "nome": "Campo de' Fiori",
+                "tipo_principal": "Mercado Histórico",
+                "descricao_enxuta": "Um mercado ao ar livre vibrante, onde você pode encontrar produtos frescos, flores e lembranças.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Experiência autêntica da vida romana"
+            },
+            {
+                "nome": "Circo Máximo",
+                "tipo_principal": "Ruínas Arqueológicas",
+                "descricao_enxuta": "As ruínas de um antigo circo romano, onde as corridas de carros eram realizadas.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Vislumbre da vida na antiga Roma"
+            },
+            {
+                "nome": "Janículo",
+                "tipo_principal": "Mirante Panorâmico",
+                "descricao_enxuta": "Um monte que oferece vistas panorâmicas deslumbrantes de Roma, especialmente ao pôr do sol.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Vistas panorâmicas de tirar o fôlego"
+            },
+            {
+                "nome": "Catacombas Romanas (ex: Catacombas de Domitilla)",
+                "tipo_principal": "Sítio Arqueológico Subterrâneo",
+                "descricao_enxuta": "Um sistema de túneis subterrâneos usados como cemitérios na era cristã primitiva.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Experiência histórica e atmosférica única"
+            },
+            {
+                "nome": "Palácio do Quirinal",
+                "tipo_principal": "Palácio Histórico",
+                "descricao_enxuta": "A residência oficial do Presidente da República Italiana, com belos jardins e uma história rica.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "História e arquitetura palaciana"
+            }
+        ],
+        "data_chegada": "2025-09-13",
+        "data_partida": "2025-09-16",
+        "hospedagem": "Via Francesco Caracciolo n.7"
+    },
+    {
+        "cidade": "Florença",
+        "pais": "Itália",
+        "link_google_search": "https://www.google.com/search?q=principais+atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Floren%C3%A7a+It%C3%A1lia",
+        "link_google_maps_atracoes": "https://www.google.com/maps/search/atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Floren%C3%A7a%2C+It%C3%A1lia",
+        "link_google_maps_cidade": "https://www.google.com/maps/place/Floren%C3%A7a%2C+It%C3%A1lia",
+        "sugestoes_gemini": [
+            {
+                "nome": "Galeria da Academia",
+                "tipo_principal": "Museu de Arte",
+                "descricao_enxuta": "Abriga a maior coleção de obras de Michelangelo, incluindo o David e as pinturas da Capela Sistina.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Coleção de obras-primas renascentistas"
+            },
+            {
+                "nome": "Ponte Vecchio",
+                "tipo_principal": "Ponte Histórica",
+                "descricao_enxuta": "Uma ponte medieval única, famosa pelas lojas construídas ao longo dela, atravessando o rio Arno.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Arquitetura e vistas icônicas"
+            },
+            {
+                "nome": "Catedral de Florença (Duomo)",
+                "tipo_principal": "Catedral Gótica",
+                "descricao_enxuta": "Uma magnífica catedral com a cúpula de Brunelleschi, um marco da arquitetura renascentista.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura impressionante e obras de arte"
+            },
+            {
+                "nome": "Palazzo Pitti",
+                "tipo_principal": "Palácio Histórico",
+                "descricao_enxuta": "Um enorme palácio renascentista que abriga cinco museus, incluindo a Galeria de Arte Moderna.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Coleções de arte e arquitetura grandiosa"
+            },
+            {
+                "nome": "Uffizi Gallery",
+                "tipo_principal": "Museu de Arte",
+                "descricao_enxuta": "Um dos museus mais importantes do mundo, com uma vasta coleção de pinturas renascentistas italianas.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Obras-primas do Renascimento italiano"
+            },
+            {
+                "nome": "Piazza della Signoria",
+                "tipo_principal": "Praça Pública Histórica",
+                "descricao_enxuta": "Uma praça central com esculturas importantes, palácios e fontes, coração da vida política florentina.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Atmosfera vibrante e monumentos históricos"
+            },
+            {
+                "nome": "Palazzo Vecchio",
+                "tipo_principal": "Palácio Municipal",
+                "descricao_enxuta": "O antigo palácio do governo florentino, com salas ricamente decoradas e vistas panorâmicas.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "História e arte florentina"
+            },
+            {
+                "nome": "Boboli Gardens",
+                "tipo_principal": "Jardim Histórico",
+                "descricao_enxuta": "Um dos primeiros e mais importantes exemplos de jardim italiano, com fontes, esculturas e paisagismo.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Beleza paisagística e esculturas"
+            },
+            {
+                "nome": "Mercado de San Lorenzo",
+                "tipo_principal": "Mercado Histórico",
+                "descricao_enxuta": "Um mercado vibrante com produtos locais, artesanato e artigos de couro.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Experiência autêntica e compras"
+            },
+            {
+                "nome": "Piazzale Michelangelo",
+                "tipo_principal": "Mirante Panorâmico",
+                "descricao_enxuta": "Um mirante com vistas deslumbrantes de toda a cidade de Florença.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Vistas panorâmicas de Florença"
+            },
+            {
+                "nome": "Capela dos Médici",
+                "tipo_principal": "Complexo Funerário",
+                "descricao_enxuta": "Um complexo funerário opulento que exibe a riqueza e o poder da família Médici.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Arte e arquitetura exuberantes"
+            },
+            {
+                "nome": "Ponte Santa Trinita",
+                "tipo_principal": "Ponte Histórica",
+                "descricao_enxuta": "Uma elegante ponte de pedra sobre o rio Arno, com vistas encantadoras.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Elegância arquitetônica e vistas do rio"
+            },
+            {
+                "nome": "Bargello Museum",
+                "tipo_principal": "Museu de Esculturas",
+                "descricao_enxuta": "Um museu que abriga uma coleção impressionante de esculturas renascentistas, incluindo obras de Donatello e Michelangelo.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Coleção de esculturas renascentistas"
+            },
+            {
+                "nome": "Palazzo Davanzati",
+                "tipo_principal": "Museu Histórico",
+                "descricao_enxuta": "Um museu que mostra a vida de uma rica família florentina no século XIV.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Visão da vida florentina medieval"
+            },
+            {
+                "nome": "Basílica de Santa Croce",
+                "tipo_principal": "Basílica Franciscana",
+                "descricao_enxuta": "Uma basílica gótica que abriga os túmulos de figuras importantes como Michelangelo e Galileu.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura e túmulos de figuras históricas"
+            }
+        ],
+        "data_chegada": "2025-09-16",
+        "data_partida": "2025-09-19",
+        "hospedagem": "Hotel Bodoni"
+    },
+    {
+        "cidade": "Viena",
+        "pais": "Aústria",
+        "link_google_search": "https://www.google.com/search?q=principais+atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Viena+A%C3%BAstria",
+        "link_google_maps_atracoes": "https://www.google.com/maps/search/atra%C3%A7%C3%B5es+tur%C3%ADsticas+em+Viena%2C+A%C3%BAstria",
+        "link_google_maps_cidade": "https://www.google.com/maps/place/Viena%2C+A%C3%BAstria",
+        "sugestoes_gemini": [
+            {
+                "nome": "Palácio de Schönbrunn",
+                "tipo_principal": "Palácio Histórico e Jardins",
+                "descricao_enxuta": "Residência de verão dos Habsburgos, com exuberantes jardins, fontes e museus, oferecendo um vislumbre da história imperial austríaca.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura imperial e belos jardins"
+            },
+            {
+                "nome": "Hofburg",
+                "tipo_principal": "Complexo de Palácios",
+                "descricao_enxuta": "Antiga residência de inverno dos Habsburgos, abrigando museus, capelas e a famosa Escola Espanhola de Equitação.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "História imperial e arquitetura magnífica"
+            },
+            {
+                "nome": "Catedral de Santo Estêvão",
+                "tipo_principal": "Catedral Gótica",
+                "descricao_enxuta": "Símbolo icônico de Viena, com sua arquitetura gótica impressionante, tesouros religiosos e vistas panorâmicas do topo.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura gótica e importância histórica"
+            },
+            {
+                "nome": "Museu de História da Arte",
+                "tipo_principal": "Museu de Arte",
+                "descricao_enxuta": "Coleção excepcional de pinturas, esculturas e objetos de arte de diferentes épocas e culturas, incluindo obras-primas de artistas renomados.",
+                "avaliacao_geral": "4.5/5 estrelas",
+                "destaque_principal": "Coleção de arte mundialmente famosa"
+            },
+            {
+                "nome": "Belvedere",
+                "tipo_principal": "Palácio e Museu de Arte",
+                "descricao_enxuta": "Palácio barroco que abriga a maior coleção de obras de Gustav Klimt, incluindo 'O Beijo'.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Obras-primas de Gustav Klimt"
+            },
+            {
+                "nome": "Prater",
+                "tipo_principal": "Parque de Diversões",
+                "descricao_enxuta": "Parque de diversões icônico com a famosa Roda Gigante, oferecendo diversão para todas as idades e vistas deslumbrantes da cidade.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Diversão e vistas panorâmicas"
+            },
+            {
+                "nome": "Naschmarkt",
+                "tipo_principal": "Mercado Histórico",
+                "descricao_enxuta": "Um dos maiores e mais antigos mercados ao ar livre da Europa, oferecendo uma vasta seleção de produtos frescos, especiarias e comidas internacionais.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Experiência culinária e atmosfera vibrante"
+            },
+            {
+                "nome": "Palácio de Belvedere Inferior",
+                "tipo_principal": "Museu de Arte",
+                "descricao_enxuta": "Parte do complexo Belvedere, abriga uma extensa coleção de arte austríaca, desde a Idade Média até o século XX.",
+                "avaliacao_geral": "4.5/5 estrelas",
+                "destaque_principal": "Arte austríaca de diferentes períodos"
+            },
+            {
+                "nome": "Casa da Música",
+                "tipo_principal": "Centro Cultural e de Concertos",
+                "descricao_enxuta": "Centro de concertos moderno e icônico com arquitetura impressionante e programação diversificada de música clássica e contemporânea.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Arquitetura moderna e concertos de alta qualidade"
+            },
+            {
+                "nome": "Espaço de Arte Leopold",
+                "tipo_principal": "Museu de Arte Moderna",
+                "descricao_enxuta": "Museu dedicado à arte austríaca do século XX, com uma coleção notável de obras expressionistas e obras de Egon Schiele.",
+                "avaliacao_geral": "4.5/5 estrelas",
+                "destaque_principal": "Arte expressionista e obras de Egon Schiele"
+            },
+            {
+                "nome": "Stephansplatz",
+                "tipo_principal": "Praça Histórica",
+                "descricao_enxuta": "Praça central de Viena, localizada em frente à Catedral de Santo Estêvão, com atmosfera vibrante e edifícios históricos.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Atmosfera histórica e centralidade"
+            },
+            {
+                "nome": "Volksgarten",
+                "tipo_principal": "Parque Urbano",
+                "descricao_enxuta": "Parque público tranquilo e bonito, ideal para relaxar, com jardins bem cuidados, monumentos e o famoso Templo de Theseus.",
+                "avaliacao_geral": "Excelente",
+                "destaque_principal": "Espaço verde e relaxante no centro da cidade"
+            },
+            {
+                "nome": "Roda Gigante do Prater",
+                "tipo_principal": "Atração de Entretenimento",
+                "descricao_enxuta": "Uma das rodas gigantes mais famosas do mundo, oferecendo vistas panorâmicas de Viena do alto.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Vistas panorâmicas de Viena"
+            },
+            {
+                "nome": "Museu Albertina",
+                "tipo_principal": "Museu de Artes Gráficas",
+                "descricao_enxuta": "Abriga uma das maiores e mais importantes coleções de artes gráficas do mundo, incluindo desenhos, gravuras e fotografias.",
+                "avaliacao_geral": "4.6/5 estrelas",
+                "destaque_principal": "Coleção de artes gráficas de renome mundial"
+            },
+            {
+                "nome": "Danúbio",
+                "tipo_principal": "Rio e Passeios de Barco",
+                "descricao_enxuta": "O rio Danúbio atravessa Viena, oferecendo passeios de barco para apreciar a cidade de uma perspectiva diferente.",
+                "avaliacao_geral": "Muito Popular",
+                "destaque_principal": "Passeios de barco e vistas únicas da cidade"
+            }
+        ],
+        "data_chegada": "2025-09-20",
+        "data_partida": "2025-09-24",
+        "hospedagem": "Hilton Vienna Park"
+    }
+]
